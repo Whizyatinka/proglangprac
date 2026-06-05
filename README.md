@@ -1,4 +1,4 @@
-# 📚 Telegram Book & Manga Bot
+# 📚 Mangareado
 
 Telegram бот для поиска и скачивания книг с Coollib.net и манги с Remanga.org.
 
