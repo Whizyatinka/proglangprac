@@ -19,7 +19,7 @@ from keyboards import (
 from download_utils import download_chapter
 from coolib_parser import CoolibParser
 
-BOT_TOKEN = "8609460139:AAHY3lbEomepYMEfDbeEE3mIRoiw9qfMRlc"
+BOT_TOKEN = "Ваш токен"
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
