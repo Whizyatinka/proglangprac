@@ -31,16 +31,7 @@ venv\Scripts\activate
 # Linux/MacOS:
 source venv/bin/activate
 
-# 4. Создайте файл requirements.txt и установите зависимости
-echo "aiogram>=3.0.0
-aiohttp>=3.9.0
-httpx>=0.25.0
-aiofiles>=23.0.0
-img2pdf>=0.4.0
-Pillow>=10.0.0
-beautifulsoup4>=4.12.0
-lxml>=4.9.0" > requirements.txt
-
+# 3. Установите зависимости 
 pip install -r requirements.txt
 
 # 5. Создайте файл bot.py (скопируйте код ниже)
